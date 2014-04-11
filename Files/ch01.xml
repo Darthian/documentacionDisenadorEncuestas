@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+
+<chapter>
+    <title>Documentacion disenador encuenstas</title>
+    <para> paragrafo
+        <literal>&lt;sect1&gt;</literal>Documentacion
+        <literal>&lt;sect1&gt;</literal>Aca esta el paragrafo
+        <literal>&lt;para&gt;</literal>
+    </para>
+    <sect1>
+        <title>Titulo de la seccion</title>
+        <para>muchas otras cosas para el paragrafo</para>
+        
+        <itemizedlist mark='opencircle'>
+            <listitem><para>TeX and LaTeX</para></listitem>
+            <listitem override='bullet'><para>Troff</para></listitem>
+            <listitem><para>Lout</para></listitem>
+        </itemizedlist>
+    </sect1>
+</chapter>

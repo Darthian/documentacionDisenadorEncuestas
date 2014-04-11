@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		3C8B1A8A18F84C0E00A89139 /* book.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = book.xml; sourceTree = "<group>"; };
+		3C8B1A8A18F84C0E00A89139 /* ch01.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = ch01.xml; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -21,7 +21,7 @@
 		3C8B1A8718F84BDD00A89139 /* Files */ = {
 			isa = PBXGroup;
 			children = (
-				3C8B1A8A18F84C0E00A89139 /* book.xml */,
+				3C8B1A8A18F84C0E00A89139 /* ch01.xml */,
 				3C8B1A8918F84BFC00A89139 /* pdf */,
 				3C8B1A8818F84BF100A89139 /* figs */,
 			);
