@@ -6,11 +6,40 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		3C8B1A8A18F84C0E00A89139 /* book.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = book.xml; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		3C8B1A8018F84BC600A89139 = {
 			isa = PBXGroup;
 			children = (
+				3C8B1A8718F84BDD00A89139 /* Files */,
 			);
+			sourceTree = "<group>";
+		};
+		3C8B1A8718F84BDD00A89139 /* Files */ = {
+			isa = PBXGroup;
+			children = (
+				3C8B1A8A18F84C0E00A89139 /* book.xml */,
+				3C8B1A8918F84BFC00A89139 /* pdf */,
+				3C8B1A8818F84BF100A89139 /* figs */,
+			);
+			path = Files;
+			sourceTree = "<group>";
+		};
+		3C8B1A8818F84BF100A89139 /* figs */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = figs;
+			sourceTree = "<group>";
+		};
+		3C8B1A8918F84BFC00A89139 /* pdf */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = pdf;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD Doc Book V4.5//EN"
+"http://www.oasis-open-org/docbook/xml/4.5/docbook.dtd">
+<chapter>
+    <title>Documentacion disenñador encuenstas</title>
+    <para> paragrafo <literal>&lt;sect1&gt;</literal>Documentacion
+        <literal>&lt;sect1&gt;</literal>Aca esta el paragrafo <literal>&lt;para&gtM;</literal>
+        <sect1>
+            <title>TItulo de la seccion</title>
+            <para>muchas otras cosas para el paragrafo</para>
+        </sect1>
+    </chapter>
